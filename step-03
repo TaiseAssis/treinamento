@@ -5,8 +5,12 @@
 gt > vai
 gT > volta
 
-# cut, copy and paste
+# navegar entre arquivos
 
+ctrl+ O - volta para o arquivo anterior 
+ctrl + i - avanca para o outro arquivo 
+
+# cut, copy and paste
 y -> copia 
 x -> corta
 p -> cola
@@ -16,4 +20,12 @@ p -> cola
 y2w -> copia as duas palavras a frente
 y2b -> copia as duas palavras atras
 
+# repetir acoes
+executa uma acao e dpois digita . na secao desejada
 
+# substituir palavras
+%s /palavra desejada/ palavra substituida / g (em todo o arquivo)
+
+#higlith
+shift + 3 - seleciona as palavras
+digitar :noh para no hiligt

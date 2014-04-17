@@ -1,10 +1,19 @@
 # Coisas legais do vim
 
 # Split
+digitar :vs para vertical  split
+digitar :sp para split horizontal
 
 # Nerd tree
+(fn) + F2 para abrir a arvore de arquivos 
+
+# navegar nas janelas
+digitar ctrl + w e depois mova com a seta para navegar
+digitar ctrl + w + o para fechar todas as outras janelas
+
 
 # Find
+ctrl + p para listar os arquivos da pasta
 
 # Modes vim
 -  Normal mode: O modo principal do vim, aqui toda a magica acontece
@@ -22,7 +31,10 @@
   j -> para baixo
   k -> para cima
 
+
 # Combo breeeaaak
+  ctrl + r - refazer
+  u - volta uma alteracao
   d - deleta
   c - modifica
   w - palavra
